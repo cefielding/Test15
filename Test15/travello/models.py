@@ -8,4 +8,4 @@ class Destination:
     img: str
     desc: str
     price: int
-    offer : bool
+    offer: bool
